@@ -1,0 +1,22 @@
+--------Printouts from O_outputext---------
+cor0 =1.929e-05
+MaxEl=2.4206, MinEl=-0.52407
+MaxUa=0.27267, MinUa=-0.061996
+MaxVa=0.024973, MinVa=-0.040252
+--------Printouts from MAIN---------
+smoth =0.1
+smol =0
+dtfac =1
+fnln =0
+small =1e-06
+g =0.13396
+tottim =864000
+outtim =10800
+nperx =1
+npery =0
+smagc =0
+nadv =1
+-------------------------------------------
+ModelForcedKWCoast02 ends @day=10;
+Last fig#=6
+-------------------------------------------
